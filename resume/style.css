@@ -1,0 +1,14 @@
+head{
+    font-family: 'Open Sans', sans-serif;    
+    color:#33485e;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    color:#444;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
