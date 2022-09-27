@@ -10,17 +10,20 @@ body{
     color:#444;
 }
 
+<!--The text in the center that says my name-->
 h1{
     text-align: center;
     text-transform: uppercase;
 }
 
+<!--My title as a student-->
 strong{
     text-transform: uppercase;
     font-size: 1.5em;
     color: #33485e;
 }
 
+<!--The sections for my experience, education, and skills-->
 h2{
     text-transform: uppercase;
     font-size: 1.5em;
@@ -29,22 +32,26 @@ h2{
     font-weight: 400;
 }
 
+<!--My job titles-->
 h3{
     font-weight: 600;
     font-size: 1.5em;
 }
 
+<!--The employers I worked for-->
 h4{
     font-weight: 400;
     font-size: 1.5em;
 }
 
+<!--The years I have worked-->
 h5{
     font-weight: 400;
     font-size: 1em;
     font-style: italic;
 }
 
+<!--The bullet points I have on my website-->
 li{
     font-size: 1em;
 }
