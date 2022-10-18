@@ -1,0 +1,28 @@
+#content {
+    margin: 0 auto;
+    width: 900px; 
+  } 
+
+  #masthead {
+    font-size: 30px;
+    color: beige;
+    text-align: center;
+    background-color: darkblue;
+  }
+
+  #headline {
+    font-family: Helvetica, sans-serif;
+  }
+
+  p {
+    font-family: Georgia, serif;
+    font-size: 13px;
+  }
+
+  #byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+  }
+
+  
