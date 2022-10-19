@@ -1,3 +1,5 @@
+
+/*I chose a large font to emulate the Sports Illustrated logo*/
 #masthead{
     font-family: 'Bowlby One';
     font-size: 40px;
@@ -7,6 +9,7 @@
     letter-spacing: 2pt;
 }
 
+/*I went with a modern looking serif font*/
 #headline{
    font-size: 25px;
    font-family: 'Roboto Slab';
