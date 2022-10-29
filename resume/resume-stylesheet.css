@@ -24,6 +24,7 @@
 #experience{
     padding-top: 150px;
     font-family: 'Crete Round', 'serif';
+
 }
 
 #jobs{
@@ -32,6 +33,7 @@
 
 #companies{
     text-align: right;
+    font-style: italic;
     
 }
 
@@ -46,10 +48,12 @@
 
 #jobs-right{
     text-align: left;
+    
 }
 
 #companies-right{
     text-align: left;
+    font-style: italic;
     
 }
 
@@ -86,6 +90,5 @@ ul{
 
 #footer{
     background-color: #BFD3C7;
-   
-    
 }
+
