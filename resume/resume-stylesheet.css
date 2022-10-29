@@ -1,0 +1,91 @@
+
+.col-6{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-family: 'Crete Round', 'serif';
+}
+
+.col-2{
+    background-color: #BFD3C7;
+    padding-top: 35px;
+    font-family: 'Crete Round', 'serif';
+}
+
+#subhead{
+    color: #BFD3C7;
+}
+
+.col{
+    padding-top: 60px;
+    font-family: 'Crete Round', 'serif';
+}
+
+#experience{
+    padding-top: 150px;
+    font-family: 'Crete Round', 'serif';
+}
+
+#jobs{
+    text-align: right;
+}
+
+#companies{
+    text-align: right;
+    
+}
+
+#years{
+    text-align: right;
+}
+
+#description{
+    text-align: right;
+    
+}
+
+#jobs-right{
+    text-align: left;
+}
+
+#companies-right{
+    text-align: left;
+    
+}
+
+#years-right{
+    text-align: left;
+}
+
+#description-right{
+    text-align: left;
+}
+
+#skills{
+    padding-top: 150px;
+    font-family: 'Crete Round', 'serif';
+}
+
+ul{
+    padding-top: 50px;
+    list-style-type: none;
+    line-height: 60px;
+    font-weight: bold;
+    font-size: 1.33em;
+    font-family: 'Crete Round', 'serif';
+}
+
+#portfolio{
+    padding-top: 150px;
+    font-family: 'Crete Round', 'serif';
+}
+
+#thumbnail{
+    height: 200px;
+}
+
+#footer{
+    background-color: #BFD3C7;
+   
+    
+}
