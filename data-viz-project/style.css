@@ -3,7 +3,7 @@
     font-size: 3em;
     font-weight: 700;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Merriweather', serif;
 }
 
 .byline{
@@ -14,13 +14,15 @@
 }
 
 p {
-    font-family: georgia, serif;
+    font-family: 'Georgia', serif;
     line-height: 180%;
+    padding: ;
+
 }
 
 .chapter-head {
     font-size:2em;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Merriweather', serif;
     padding-top:20px;
     font-weight:700;
   }
@@ -39,7 +41,7 @@ p {
     margin:0 auto;
     padding-bottom:30px;
     font-family: 'Montserrat', sans-serif;
-    color:#999;
+    color:rgb(0, 0, 0);
   }
   
   .footer {
@@ -51,6 +53,16 @@ p {
   }
   
   .footer p {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Merriweather', serif;
     color: #fff
   }
+
+  .graphics {
+    max-height: 20px;
+
+  }
+
+.chapters{
+  font-size: 2em;
+  text-decoration-line: underline;
+}
