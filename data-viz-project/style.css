@@ -1,68 +1,87 @@
 
 .headline{
-    font-size: 3em;
-    font-weight: 700;
+    font-size: 5em;
     text-align: center;
     font-family: 'Merriweather', serif;
+    background-color: #77966D;
+    color: #fff;
 }
 
 .byline{
     font-size: 1em;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Merriweather', serif;
     text-align: center;
 }
 
 p {
     font-family: 'Georgia', serif;
     line-height: 180%;
-    padding: ;
-
+    font-size: 22px;
+    padding: 10px;
 }
 
 .chapter-head {
     font-size:2em;
     font-family: 'Merriweather', serif;
     padding-top:20px;
-    font-weight:700;
-  }
+    font-weight:1000;
+}
   
-  .stack-image {
+.stack-image {
     width:100%;
     max-width:900px;
     margin:0 auto;
     padding-top:30px;
     height:100%;
-  }
+}
   
-  .caption {
+.caption {
     width:100%;
     max-width:900px;
     margin:0 auto;
     padding-bottom:30px;
     font-family: 'Montserrat', sans-serif;
     color:rgb(0, 0, 0);
-  }
+}
   
-  .footer {
-    background: #000;
+.footer {
+    background:#77966D;
     height:100px;
     min-height: 100px;
     padding-top:25px;
     margin-top:100px;
-  }
+}
   
-  .footer p {
+.footer p {
     font-family: 'Merriweather', serif;
     color: #fff
-  }
+}
 
-  .graphics {
-    max-height: 20px;
-
-  }
+.image-source{
+    font-family: 'Georgia', serif;
+    font-size: smaller;
+    color: #9E90A2;
+}
 
 .chapters{
-  font-size: 2em;
-  text-decoration-line: underline;
+    font-size: 2em;
+    text-decoration-line: underline;
+    text-decoration-color: #626D58;
+    padding-top: 30px;
+}
+
+.pull-quote{
+    font-style: italic;
+    font-size: 40px;
+    color: #56282D;
+}
+
+.row{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.images{
+    padding-top: 20px;
 }
